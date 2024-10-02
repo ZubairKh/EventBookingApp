@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "zrkzubair",
+        "MONGO_PASSWORD": "aITY943fEnqN8047",
+        "MONGO_DB": "events-react-dev",
+        "CLUSTER": "StudentCluster"
+    }
+}
